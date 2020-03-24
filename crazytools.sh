@@ -18,7 +18,7 @@ red='\e[1;31m'
 echo "Loading..." | lolcat
 sleep 2
 clear
-toilet -f future "CYBER KALLAN" | lolcat
+toilet -f future "DARK DEVIL" | lolcat
 sleep 2
 clear
 
