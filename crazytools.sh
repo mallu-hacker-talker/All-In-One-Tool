@@ -18,7 +18,7 @@ red='\e[1;31m'
 echo "Loading..." | lolcat
 sleep 2
 clear
-toilet -f future "DARK DEVIL" | lolcat
+toilet -f future "CYBER ATTACK" | lolcat
 sleep 2
 clear
 
@@ -26,7 +26,7 @@ figlet MALLU HACKERS | lolcat
 
 echo $b"============================================="
 echo   "Team    : 'KCG' Kerala cyber Guardians  $white" |lolcat
-echo   "Creadby  : Dark Devil (Anson  Benny) $white" |lolcat
+echo   "Creadby  : Cyber Attack $white" |lolcat
 echo $b"============================================="
 
 ###################################################
